@@ -1,0 +1,13 @@
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\bin\Debug\netcoreapp3.1\Wksheet2_1.exe
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\bin\Debug\netcoreapp3.1\Wksheet2_1.deps.json
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\bin\Debug\netcoreapp3.1\Wksheet2_1.runtimeconfig.json
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\bin\Debug\netcoreapp3.1\Wksheet2_1.runtimeconfig.dev.json
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\bin\Debug\netcoreapp3.1\Wksheet2_1.dll
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\bin\Debug\netcoreapp3.1\Wksheet2_1.pdb
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\obj\Debug\netcoreapp3.1\Wksheet2_1.csprojAssemblyReference.cache
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\obj\Debug\netcoreapp3.1\Wksheet2_1.AssemblyInfoInputs.cache
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\obj\Debug\netcoreapp3.1\Wksheet2_1.AssemblyInfo.cs
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\obj\Debug\netcoreapp3.1\Wksheet2_1.csproj.CoreCompileInputs.cache
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\obj\Debug\netcoreapp3.1\Wksheet2_1.dll
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\obj\Debug\netcoreapp3.1\Wksheet2_1.pdb
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_1\obj\Debug\netcoreapp3.1\Wksheet2_1.genruntimeconfig.cache

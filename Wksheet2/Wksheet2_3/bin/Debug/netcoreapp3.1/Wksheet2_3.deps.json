@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Wksheet2_3/1.0.0": {
+        "runtime": {
+          "Wksheet2_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wksheet2_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

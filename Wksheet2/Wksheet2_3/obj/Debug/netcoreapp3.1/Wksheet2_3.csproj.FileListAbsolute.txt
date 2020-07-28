@@ -1,0 +1,13 @@
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\bin\Debug\netcoreapp3.1\Wksheet2_3.exe
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\bin\Debug\netcoreapp3.1\Wksheet2_3.deps.json
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\bin\Debug\netcoreapp3.1\Wksheet2_3.runtimeconfig.json
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\bin\Debug\netcoreapp3.1\Wksheet2_3.runtimeconfig.dev.json
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\bin\Debug\netcoreapp3.1\Wksheet2_3.dll
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\bin\Debug\netcoreapp3.1\Wksheet2_3.pdb
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\obj\Debug\netcoreapp3.1\Wksheet2_3.AssemblyInfoInputs.cache
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\obj\Debug\netcoreapp3.1\Wksheet2_3.AssemblyInfo.cs
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\obj\Debug\netcoreapp3.1\Wksheet2_3.csproj.CoreCompileInputs.cache
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\obj\Debug\netcoreapp3.1\Wksheet2_3.dll
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\obj\Debug\netcoreapp3.1\Wksheet2_3.pdb
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\obj\Debug\netcoreapp3.1\Wksheet2_3.genruntimeconfig.cache
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_3\obj\Debug\netcoreapp3.1\Wksheet2_3.csprojAssemblyReference.cache

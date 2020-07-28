@@ -1,0 +1,13 @@
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\obj\Debug\netcoreapp3.1\Wksheet2_ForLoops.csprojAssemblyReference.cache
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\obj\Debug\netcoreapp3.1\Wksheet2_ForLoops.AssemblyInfoInputs.cache
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\obj\Debug\netcoreapp3.1\Wksheet2_ForLoops.AssemblyInfo.cs
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\obj\Debug\netcoreapp3.1\Wksheet2_ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\bin\Debug\netcoreapp3.1\Wksheet2_ForLoops.exe
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\bin\Debug\netcoreapp3.1\Wksheet2_ForLoops.deps.json
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\bin\Debug\netcoreapp3.1\Wksheet2_ForLoops.runtimeconfig.json
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\bin\Debug\netcoreapp3.1\Wksheet2_ForLoops.runtimeconfig.dev.json
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\bin\Debug\netcoreapp3.1\Wksheet2_ForLoops.dll
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\bin\Debug\netcoreapp3.1\Wksheet2_ForLoops.pdb
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\obj\Debug\netcoreapp3.1\Wksheet2_ForLoops.dll
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\obj\Debug\netcoreapp3.1\Wksheet2_ForLoops.pdb
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\Wksheet2\Wksheet2_ForLoops\obj\Debug\netcoreapp3.1\Wksheet2_ForLoops.genruntimeconfig.cache
