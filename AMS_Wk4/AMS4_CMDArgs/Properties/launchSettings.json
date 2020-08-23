@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AMS4_CMDArgs": {
+      "commandName": "Project",
+      "commandLineArgs": "--option param1 param2"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\bin\Debug\netcoreapp3.1\AMS4_CMDArgs.exe
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\bin\Debug\netcoreapp3.1\AMS4_CMDArgs.deps.json
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\bin\Debug\netcoreapp3.1\AMS4_CMDArgs.runtimeconfig.json
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\bin\Debug\netcoreapp3.1\AMS4_CMDArgs.runtimeconfig.dev.json
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\bin\Debug\netcoreapp3.1\AMS4_CMDArgs.dll
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\bin\Debug\netcoreapp3.1\AMS4_CMDArgs.pdb
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\obj\Debug\netcoreapp3.1\AMS4_CMDArgs.csprojAssemblyReference.cache
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\obj\Debug\netcoreapp3.1\AMS4_CMDArgs.AssemblyInfoInputs.cache
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\obj\Debug\netcoreapp3.1\AMS4_CMDArgs.AssemblyInfo.cs
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\obj\Debug\netcoreapp3.1\AMS4_CMDArgs.csproj.CoreCompileInputs.cache
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\obj\Debug\netcoreapp3.1\AMS4_CMDArgs.dll
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\obj\Debug\netcoreapp3.1\AMS4_CMDArgs.pdb
+C:\Users\CodyS\OneDrive\Documents\Uni\2020_Sem 2\CAB201\CAB201-Coursework\AMS_Wk4\AMS4_CMDArgs\obj\Debug\netcoreapp3.1\AMS4_CMDArgs.genruntimeconfig.cache
